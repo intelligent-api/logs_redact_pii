@@ -61,9 +61,11 @@ Once the project is ready and the dependencies are installed, add an `appsetting
 
 That was all for setup. If you are creating your own version of the app you just need to copy the relevant files from the folders into your project:
 
-- Interface
-- Model
-- Service
+- Interface/\*
+- Model/\*
+- Service/\*
+
+And be sure to copy the code from the `Program.cs` and update it how you see fit.
 
 ## Run the app
 
