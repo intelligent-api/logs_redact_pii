@@ -1,6 +1,6 @@
 # Redact Personally Identifiable Information (PII) from logs
 
-[![Redact PII from logs](https://img.youtube.com/vi/Ctdf9mqUEvg/0.jpg)](https://www.youtube.com/watch?v=Ctdf9mqUEvg)
+![Sample Output](pii-redacted.png)
 
 ## Tools used
 
@@ -72,7 +72,3 @@ Once that is completed you can run the application, and see the test results:
 ```shell
 dotnet run
 ```
-
-Sample output:
-
-![Sample Output](pii-redacted.png)
